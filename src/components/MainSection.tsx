@@ -12,9 +12,12 @@ const MainSection = () => {
         </h4>
 
         <div className="flex justify-center flex-col md:flex-row md:justify-start items-center gap-4">
-          <button className="bg-blue-700 hover:bg-blue-500 border-solid border-2 border-blue-700 text-white py-2 px-4 rounded">
+          <a
+            href="#images"
+            className="bg-blue-700 hover:bg-blue-500 hover:border-blue-500 border-solid border-2 border-blue-700 text-white py-2 px-4 rounded"
+          >
             Zobacz zdjęcia
-          </button>
+          </a>
 
           <button className="hover:bg-gray-100 border-solid border-2 border-blue-700 text-blue-700 py-2 px-4 rounded">
             Zadzwoń do nas

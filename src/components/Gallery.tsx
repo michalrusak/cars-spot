@@ -6,7 +6,7 @@ import img3 from "/src/assets/images/img3.jpg";
 const Gallery = () => {
   const images = [img1, img2, img3];
   return (
-    <section className="min-h-[50vh] py-20 overflow-hidden">
+    <section id="images" className="min-h-[50vh] py-20 overflow-hidden">
       <div className="px-32">
         <h3 className="text-xl sm:text-2xl md:text-3xl lg:text-xl xl:text-4xl text-blue-700 text-center md:text-left">
           Prezentacja firmy
