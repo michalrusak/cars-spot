@@ -18,7 +18,7 @@ const NavBar = () => {
         </div>
 
         <div className="hidden md:flex space-x-4">
-          <a href="#" className="hover:text-gray-300">
+          <a href="#images" className="hover:text-gray-300">
             Galeria zdjęć
           </a>
           <a href="#" className="hover:text-gray-300">
