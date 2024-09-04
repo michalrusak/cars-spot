@@ -7,7 +7,7 @@ interface ImagesCarouselProps {
 const ImagesCarousel: FC<ImagesCarouselProps> = ({ images }) => {
   return (
     <>
-      <div className="overflow-hidden w-full my-20">
+      <div className="w-full my-20 overflow-hidden">
         <div className="flex flex-row gap-32 w-[100%] mx-6 md:mx-32">
           {images.map((image, index) => (
             <div key={index} className="w-[90%] md:w-[35%] flex-shrink-0">
