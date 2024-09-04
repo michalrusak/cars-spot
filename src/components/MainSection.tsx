@@ -8,7 +8,7 @@ const MainSection = () => {
           Sprzedajemy samochody z europy
         </h1>
         <h4 className="text-xl my-5">
-          Kup komformtowy pojazd, aby każda podróż była wyjątkowym przeżyciem.
+          Kup komfortowy pojazd, aby każda podróż była wyjątkowym przeżyciem.
         </h4>
 
         <div className="flex justify-center flex-col md:flex-row md:justify-start items-center gap-4">

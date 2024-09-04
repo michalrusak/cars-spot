@@ -1,3 +1,13 @@
+# About project
+
+A web application using React and Tailwind CSS with the resposnive view.
+
+# Screenshots
+
+![Preview Screenshoot1](/screenshots/img1.png)
+![Preview Screenshoot2](/screenshots/img2.png)
+![Preview Screenshoot3](/screenshots/img3.jpg)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
